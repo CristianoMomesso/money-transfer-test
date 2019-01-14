@@ -1,12 +1,12 @@
 # Money transfer api
 
 
-##Commands to run 
+##Commands to run   
 
-cd money-transfer
-mvn install
-cd money-transfer-api
-mvn wildfly:run
+cd money-transfer  
+mvn install  
+cd money-transfer-api  
+mvn wildfly:run  
 
 ### Api's url Example And JSON
 
